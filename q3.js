@@ -8,4 +8,4 @@ return 0;
 console.log(ordem); 
 return ordem; 
 } 
-ordemalfabetica(alfabeto); 
+ordemalfabetica(alfabeto);
